@@ -1,0 +1,20 @@
+name: kl2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - tqdm
+  - xarray
+  - openpyxl
+  - pip
+  - pip:
+    - arviz
+    - pymc
+    - mpltern

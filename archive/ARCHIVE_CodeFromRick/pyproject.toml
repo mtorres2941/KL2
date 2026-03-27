@@ -1,0 +1,11 @@
+[project]
+name = "epd-mixture-model"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipywidgets>=8.1.5",
+    "numpyro>=0.15.2",
+    "pymc>=5",
+]
