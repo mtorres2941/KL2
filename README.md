@@ -7,7 +7,7 @@
 
 This repository contains the code and data for the paper:
 
-> Torres, M., & Srubar, W. V. (under review). Using kernel density estimation and the Dirichlet distribution for uncertainty quantification of building material emissions.
+> Torres, M. I., Lupton, R., Marsh, E., Srubar, W. V., III, & Allen, S. (under review). Using kernel density estimation and the Dirichlet distribution for uncertainty quantification of building material emissions.
 
 ### Abstract
 
@@ -102,7 +102,7 @@ The notebook is self-contained. All data files are in `data/` and all source fun
 
 If you use this code or data, please cite:
 
-> Torres, M., & Srubar, W. V. (under review). Using kernel density estimation and the Dirichlet distribution for uncertainty quantification of building material emissions.
+> Torres, M. I., Lupton, R., Marsh, E., Srubar, W. V., III, & Allen, S. (under review). Using kernel density estimation and the Dirichlet distribution for uncertainty quantification of building material emissions.
 
 A Zenodo DOI will be added upon publication.
 
@@ -112,4 +112,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## Acknowledgments
 
-This work was conducted at the [Living Materials Laboratory](https://www.srubarlab.com), University of Colorado Boulder, under the supervision of Dr. Wil Srubar. The exploratory Bayesian/DPGMM work in `archive/ARCHIVE_CodeFromRick/` was contributed by a collaborator.
+This work was conducted at the [Living Materials Laboratory](https://www.srubarlab.com), University of Colorado Boulder. The exploratory Bayesian/DPGMM work in `archive/ARCHIVE_CodeFromRick/` was contributed by Rick Lupton.
