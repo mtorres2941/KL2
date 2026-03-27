@@ -1,6 +1,6 @@
 # KL2: Kernel Density Estimation and the Dirichlet Distribution for Uncertainty Quantification of Building Material Emissions
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19246154.svg)](https://doi.org/10.5281/zenodo.19246154)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -104,7 +104,7 @@ If you use this code or data, please cite:
 
 > Torres, M. I., Lupton, R., Marsh, E., Srubar, W. V., III, & Allen, S. (under review). Using kernel density estimation and the Dirichlet distribution for uncertainty quantification of building material emissions.
 
-A Zenodo DOI will be added upon publication.
+Please cite using the following DOI: [10.5281/zenodo.19246154](https://doi.org/10.5281/zenodo.19246154)
 
 ## License
 
