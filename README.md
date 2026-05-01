@@ -32,6 +32,7 @@ KL2/
 ├── outputs/
 │   └── figures/                  # All generated figures (FIG1–7, case studies)
 └── archive/
+    ├── ARCHIVE_Scratchpad.ipynb  # Exploratory scratchpad code from KL2.ipynb (not used in analysis)
     ├── VOID_*.ipynb              # Exploratory notebooks (not part of final analysis)
     └── ARCHIVE_CodeFromRick/     # Original MCMC/DPGMM exploration by collaborator
 ```
